@@ -1,0 +1,23 @@
+# Build artifacts
+build/
+out/
+.gradle/
+
+# IDE-specific files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Generated files
+*.class
+*.kt.toc
+
+# Local configuration files
+local.properties
+*.env
+
+
+# Android-specific files
+gradle/wrapper/
+gradlew*
